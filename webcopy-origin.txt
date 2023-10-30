@@ -1,0 +1,448 @@
+Uri: https://polyfill.io/v3/polyfill.min.js?features=fetch
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\v3\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.native_css_mappers_popups:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2CuseTranslatedUrlSlugs:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2684.0&disableStaticPagesUrlHierarchy=false&editorName=EditorX&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.aiveleta.com&fileId=dc17e7d1.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=f80e1f77-5a27-4f35-a92a-b1cf69ceb1f0&module=thunderbolt-features&originalLanguage=en&pageId=792f53_1782727e2831008f478ccb432e5b4b72_1244.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=815e5b22-0681-408b-ae97-025e0c615d73&siteRevision=1246&staticHTMLComponentUrl=https:%2F%2Fwww-aiveleta-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\pages\pages\thunderbolt-9
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.native_css_mappers_popups:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2CuseTranslatedUrlSlugs:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2684.0&disableStaticPagesUrlHierarchy=false&editorName=EditorX&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.aiveleta.com&fileId=dc17e7d1.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=f80e1f77-5a27-4f35-a92a-b1cf69ceb1f0&module=thunderbolt-features&originalLanguage=en&pageId=792f53_54dde7516bba0c8545cd51a3da1c1b8c_1244.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=815e5b22-0681-408b-ae97-025e0c615d73&siteRevision=1246&staticHTMLComponentUrl=https:%2F%2Fwww-aiveleta-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\pages\pages\thunderbolt-8
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.native_css_mappers_popups:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2CuseTranslatedUrlSlugs:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2684.0&editorName=EditorX&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.aiveleta.com&fileId=accceadc.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isResponsive=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=f80e1f77-5a27-4f35-a92a-b1cf69ceb1f0&module=thunderbolt-platform&originalLanguage=en&pageId=792f53_1782727e2831008f478ccb432e5b4b72_1244.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=815e5b22-0681-408b-ae97-025e0c615d73&siteRevision=1246&staticHTMLComponentUrl=https:%2F%2Fwww-aiveleta-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\pages\pages\thunderbolt-7
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.native_css_mappers_popups:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2684.0&disableStaticPagesUrlHierarchy=false&editorName=EditorX&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.aiveleta.com&fileId=dc17e7d1.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=f80e1f77-5a27-4f35-a92a-b1cf69ceb1f0&module=thunderbolt-features&originalLanguage=en&pageId=792f53_4fde5e5cb992e49aae20dd9d322def5f_1244.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=815e5b22-0681-408b-ae97-025e0c615d73&siteRevision=1246&staticHTMLComponentUrl=https:%2F%2Fwww-aiveleta-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\pages\pages\thunderbolt-3
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.native_css_mappers_popups:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2684.0&disableStaticPagesUrlHierarchy=false&editorName=EditorX&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.aiveleta.com&fileId=dc17e7d1.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=f80e1f77-5a27-4f35-a92a-b1cf69ceb1f0&module=thunderbolt-features&originalLanguage=en&pageId=792f53_54dde7516bba0c8545cd51a3da1c1b8c_1244.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=815e5b22-0681-408b-ae97-025e0c615d73&siteRevision=1246&staticHTMLComponentUrl=https:%2F%2Fwww-aiveleta-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\pages\pages\thunderbolt-2
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.ghostify_hidden_comps:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.native_css_mappers_popups:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2684.0&disableStaticPagesUrlHierarchy=false&editorName=EditorX&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.aiveleta.com&fileId=dc17e7d1.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=f80e1f77-5a27-4f35-a92a-b1cf69ceb1f0&module=thunderbolt-features&originalLanguage=en&pageId=792f53_54dde7516bba0c8545cd51a3da1c1b8c_1244.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=815e5b22-0681-408b-ae97-025e0c615d73&siteRevision=1246&staticHTMLComponentUrl=https:%2F%2Fwww-aiveleta-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\pages\pages\thunderbolt-4
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.ghostify_hidden_comps:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.native_css_mappers_popups:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.theme_fonts_colors_catharsis:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2684.0&disableStaticPagesUrlHierarchy=false&editorName=EditorX&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.aiveleta.com&fileId=dc17e7d1.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=f80e1f77-5a27-4f35-a92a-b1cf69ceb1f0&module=thunderbolt-features&originalLanguage=en&pageId=792f53_7aa2c196db7e82c924a884dc56292c7b_1246.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=815e5b22-0681-408b-ae97-025e0c615d73&siteRevision=1246&staticHTMLComponentUrl=https:%2F%2Fwww-aiveleta-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\pages\pages\thunderbolt-5
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.ghostify_hidden_comps:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.native_css_mappers_popups:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2CuseTranslatedUrlSlugs:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2684.0&disableStaticPagesUrlHierarchy=false&editorName=EditorX&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.aiveleta.com&fileId=dc17e7d1.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=f80e1f77-5a27-4f35-a92a-b1cf69ceb1f0&module=thunderbolt-features&originalLanguage=en&pageId=792f53_13e9352cb85016e9c4c118437827d89c_1244.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=815e5b22-0681-408b-ae97-025e0c615d73&siteRevision=1246&staticHTMLComponentUrl=https:%2F%2Fwww-aiveleta-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\pages\pages\thunderbolt-1
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.ghostify_hidden_comps:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.native_css_mappers_popups:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2CuseTranslatedUrlSlugs:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2684.0&disableStaticPagesUrlHierarchy=false&editorName=EditorX&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.aiveleta.com&fileId=dc17e7d1.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=f80e1f77-5a27-4f35-a92a-b1cf69ceb1f0&module=thunderbolt-features&originalLanguage=en&pageId=792f53_53117dc2c7ff350e2057c7be5e5cfdd5_1244.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=815e5b22-0681-408b-ae97-025e0c615d73&siteRevision=1246&staticHTMLComponentUrl=https:%2F%2Fwww-aiveleta-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\pages\pages\thunderbolt-11
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.ghostify_hidden_comps:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.native_css_mappers_popups:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2CuseTranslatedUrlSlugs:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2684.0&disableStaticPagesUrlHierarchy=false&editorName=EditorX&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.aiveleta.com&fileId=dc17e7d1.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=f80e1f77-5a27-4f35-a92a-b1cf69ceb1f0&module=thunderbolt-features&originalLanguage=en&pageId=792f53_54dde7516bba0c8545cd51a3da1c1b8c_1244.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=815e5b22-0681-408b-ae97-025e0c615d73&siteRevision=1246&staticHTMLComponentUrl=https:%2F%2Fwww-aiveleta-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\pages\pages\thunderbolt
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.ghostify_hidden_comps:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.native_css_mappers_popups:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2CuseTranslatedUrlSlugs:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2684.0&disableStaticPagesUrlHierarchy=false&editorName=EditorX&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.aiveleta.com&fileId=dc17e7d1.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=f80e1f77-5a27-4f35-a92a-b1cf69ceb1f0&module=thunderbolt-features&originalLanguage=en&pageId=792f53_cdbd950cf9c4f50d8a539e36ac888124_1244.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=815e5b22-0681-408b-ae97-025e0c615d73&siteRevision=1246&staticHTMLComponentUrl=https:%2F%2Fwww-aiveleta-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\pages\pages\thunderbolt-6
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.ghostify_hidden_comps:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.native_css_mappers_popups:true%2Cspecs.thunderbolt.useElementoryRelativePath:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.mesh_css_catharsis:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2CuseTranslatedUrlSlugs:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2684.0&editorName=EditorX&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.aiveleta.com&fileId=accceadc.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isResponsive=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=f80e1f77-5a27-4f35-a92a-b1cf69ceb1f0&module=thunderbolt-platform&originalLanguage=en&pageId=792f53_53117dc2c7ff350e2057c7be5e5cfdd5_1244.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11348.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=815e5b22-0681-408b-ae97-025e0c615d73&siteRevision=1246&staticHTMLComponentUrl=https:%2F%2Fwww-aiveleta-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\pages\pages\thunderbolt-10
+Content Type: application/json
+
+Uri: https://static.parastorage.com/client/pfavico.ico
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\client\pfavico.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.parastorage.com/services/santa-resources/dist/viewer/user-site-fonts/fonts/Helvetica/v3/HelveticaLTW04-Roman.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\santa-resources\dist\viewer\user-site-fonts\fonts\Helvetica\v3\HelveticaLTW04-Roman.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-35Light.woff
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-35Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-35Light.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-35Light.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-85Heavy.woff
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-85Heavy.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-85Heavy.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-85Heavy.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/tag-manager-client/1.820.0/siteTags.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\tag-manager-client\1.820.0\siteTags.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/07d62b21-8d7a-4c36-be86-d32ab1089972.woff
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\07d62b21-8d7a-4c36-be86-d32ab1089972.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0a7663fd-eae8-4e50-a67a-225271f8cceb.ttf
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\0a7663fd-eae8-4e50-a67a-225271f8cceb.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3516f91d-ac48-42cd-acfe-1be691152cc4.ttf
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\3516f91d-ac48-42cd-acfe-1be691152cc4.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3d009cd7-c8fe-40c0-93da-74f4ea8c530b.eot?
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\3d009cd7-c8fe-40c0-93da-74f4ea8c530b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3e0b2cd7-9657-438b-b4af-e04122e8f1f7.eot?
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\3e0b2cd7-9657-438b-b4af-e04122e8f1f7.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/4021a3b9-f782-438b-aeb4-c008109a8b64.woff
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\4021a3b9-f782-438b-aeb4-c008109a8b64.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/48e5a0e1-2d56-46e5-8fc4-3d6d5c973cbf.eot?
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\48e5a0e1-2d56-46e5-8fc4-3d6d5c973cbf.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/58ae9be9-5d95-44b6-8b6c-e6da6a46822c.svg
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\58ae9be9-5d95-44b6-8b6c-e6da6a46822c.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/61bd362e-7162-46bd-b67e-28f366c4afbe.woff
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\61bd362e-7162-46bd-b67e-28f366c4afbe.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/66cac56e-d017-4544-9d0c-f7d978f0c5c2.svg
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\66cac56e-d017-4544-9d0c-f7d978f0c5c2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/686a6a06-e711-4bd2-b393-8504a497bb3c.eot?
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\686a6a06-e711-4bd2-b393-8504a497bb3c.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/6f8d1983-4d34-4fa4-9110-988f6c495757.woff
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\6f8d1983-4d34-4fa4-9110-988f6c495757.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/7903ee3f-e9ab-4bdc-b7d2-d232de2da580.ttf
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\7903ee3f-e9ab-4bdc-b7d2-d232de2da580.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/7da02f05-ae8b-43a1-aeb9-83b3c0527c06.ttf
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\7da02f05-ae8b-43a1-aeb9-83b3c0527c06.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/908c4810-64db-4b46-bb8e-823eb41f68c0.woff
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\908c4810-64db-4b46-bb8e-823eb41f68c0.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9c58e9ea-fdea-4b9c-b0f9-0a2157389ed0.svg
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\9c58e9ea-fdea-4b9c-b0f9-0a2157389ed0.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9f774d17-c03a-418e-a375-34f3beecbc7a.svg
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\9f774d17-c03a-418e-a375-34f3beecbc7a.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/a9e95a29-98a7-404a-90ee-1929ad09c696.woff
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\a9e95a29-98a7-404a-90ee-1929ad09c696.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/b56b944e-bbe0-4450-a241-de2125d3e682.woff
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\b56b944e-bbe0-4450-a241-de2125d3e682.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/bc176270-17fa-4c78-a343-9fe52824e501.woff
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\bc176270-17fa-4c78-a343-9fe52824e501.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/c0050890-bbed-44b9-94df-2611d72dbb06.ttf
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\c0050890-bbed-44b9-94df-2611d72dbb06.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d1b1e866-a411-42ba-8f75-72bf28e23694.svg
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\d1b1e866-a411-42ba-8f75-72bf28e23694.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d513e15e-8f35-4129-ad05-481815e52625.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\d513e15e-8f35-4129-ad05-481815e52625.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/e4bd4516-4480-43df-aa6e-4e9b9029f53e.eot?
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\third-party\fonts\user-site-fonts\fonts\e4bd4516-4480-43df-aa6e-4e9b9029f53e.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/wix-perf-measure/1.1095.0/wix-perf-measure.umd.min.js
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\wix-perf-measure\1.1095.0\wix-perf-measure.umd.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.df6d6e2f.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\wix-thunderbolt\dist\main.df6d6e2f.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.1f86e978.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services\wix-thunderbolt\dist\thunderbolt-commons.1f86e978.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/poppins/v5/9VWMTeb5jtXkNoTv949NpRsxEYwM7FgeyaSgU71cLG0.woff
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\poppins\v5\9VWMTeb5jtXkNoTv949NpRsxEYwM7FgeyaSgU71cLG0.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/poppins/v5/aDjpMND83pDErGXlVEr-SRsxEYwM7FgeyaSgU71cLG0.woff
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\poppins\v5\aDjpMND83pDErGXlVEr-SRsxEYwM7FgeyaSgU71cLG0.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/poppins/v5/c4FPK8_hIFKoX59qcGwdCha1RVmPjeKy21_GQJaLlJI.woff
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\poppins\v5\c4FPK8_hIFKoX59qcGwdCha1RVmPjeKy21_GQJaLlJI.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/poppins/v5/RbebACOccNN-5ixkDIVLjRa1RVmPjeKy21_GQJaLlJI.woff
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\poppins\v5\RbebACOccNN-5ixkDIVLjRa1RVmPjeKy21_GQJaLlJI.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/9VWMTeb5jtXkNoTv949Npfk_vArhqVIZ0nv9q090hN8.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\9VWMTeb5jtXkNoTv949Npfk_vArhqVIZ0nv9q090hN8.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/aDjpMND83pDErGXlVEr-Sfk_vArhqVIZ0nv9q090hN8.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\aDjpMND83pDErGXlVEr-Sfk_vArhqVIZ0nv9q090hN8.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/c4FPK8_hIFKoX59qcGwdChUOjZSKWg4xBWp_C_qQx0o.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\c4FPK8_hIFKoX59qcGwdChUOjZSKWg4xBWp_C_qQx0o.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/RbebACOccNN-5ixkDIVLjRUOjZSKWg4xBWp_C_qQx0o.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\RbebACOccNN-5ixkDIVLjRUOjZSKWg4xBWp_C_qQx0o.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiDyp8kv8JHgFVrJJLmy15VFteOYktMqlap.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiDyp8kv8JHgFVrJJLmy15VFteOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiGyp8kv8JHgFVrJJLucXtAOvWDSHFF.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiGyp8kv8JHgFVrJJLucXtAOvWDSHFF.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v9/pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v9\pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\unpkg\core-js-bundle@3.2.1\minified.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\unpkg\focus-within-polyfill@5.0.9\dist\focus-within-polyfill.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\unpkg\lodash@4.17.21\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react-dom@16.14.0/umd/react-dom.production.min.js
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\unpkg\react-dom@16.14.0\umd\react-dom.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react@16.14.0/umd/react.production.min.js
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\unpkg\react@16.14.0\umd\react.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.wixstatic.com/media/11062b_3be7f4cbca03445db9529f685cb65ba2f000.png/v1/fill/w_61,h_90,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/11062b_3be7f4cbca03445db9529f685cb65ba2f000.png
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\11062b_3be7f4cbca03445db9529f685cb65ba2f000.png\v1\fill\w_61,h_90,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto\11062b_3be7f4cbca03445db9529f685cb65ba2f000.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/11062b_40ddcaf20c5e4bb68111bc2c02fd012af000.png/v1/fill/w_102,h_90,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/11062b_40ddcaf20c5e4bb68111bc2c02fd012af000.png
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\11062b_40ddcaf20c5e4bb68111bc2c02fd012af000.png\v1\fill\w_102,h_90,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto\11062b_40ddcaf20c5e4bb68111bc2c02fd012af000.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/11062b_59f87c798b4a4216b13c93305990c7d5f000.png/v1/fill/w_90,h_90,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/11062b_59f87c798b4a4216b13c93305990c7d5f000.png
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\11062b_59f87c798b4a4216b13c93305990c7d5f000.png\v1\fill\w_90,h_90,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto\11062b_59f87c798b4a4216b13c93305990c7d5f000.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/11062b_bfa9815cbaa74b398b7b1a6688b26dd6~mv2.jpg/v1/fill/w_147,h_104,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/Abstract Background.jpg
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\11062b_bfa9815cbaa74b398b7b1a6688b26dd6~mv2.jpg\v1\fill\w_147,h_104,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\Abstract Background.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/9884e0_07163c7c5b074c66a508aff1ff5de75d~mv2.png/v1/fit/w_1207,h_1276,q_90/9884e0_07163c7c5b074c66a508aff1ff5de75d~mv2.png
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\9884e0_07163c7c5b074c66a508aff1ff5de75d~mv2.png\v1\fit\w_1207,h_1276,q_90\9884e0_07163c7c5b074c66a508aff1ff5de75d~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/9884e0_46aef503a09e4893ab1979809953eae5~mv2.png/v1/fit/w_1920,h_776,q_90/9884e0_46aef503a09e4893ab1979809953eae5~mv2.png
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\9884e0_46aef503a09e4893ab1979809953eae5~mv2.png\v1\fit\w_1920,h_776,q_90\9884e0_46aef503a09e4893ab1979809953eae5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/9884e0_55f6fd5cbc83405db5996f607baadcdd~mv2.jpg/v1/fill/w_144,h_144,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/Blanca.jpg
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\9884e0_55f6fd5cbc83405db5996f607baadcdd~mv2.jpg\v1\fill\w_144,h_144,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\Blanca.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/9f4cf97341974b3b94038e43521719f1.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/Lines Of Code.jpg
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\9f4cf97341974b3b94038e43521719f1.jpg\v1\fill\w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\Lines Of Code.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/e55ebc_1b024fc33abc4c1ea532ae7b86aa7d32~mv2.jpg/v1/fill/w_147,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/results_page.jpg
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\e55ebc_1b024fc33abc4c1ea532ae7b86aa7d32~mv2.jpg\v1\fill\w_147,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\results_page.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/e55ebc_233a649294b44e1db72abac45390baf2~mv2.jpeg/v1/fill/w_91,h_91,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/1649955334780.jpeg
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\e55ebc_233a649294b44e1db72abac45390baf2~mv2.jpeg\v1\fill\w_91,h_91,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\1649955334780.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/e55ebc_42991cb5661043adb8b85985e2ac4498~mv2.jpg/v1/fill/w_147,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/services_page.jpg
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\e55ebc_42991cb5661043adb8b85985e2ac4498~mv2.jpg\v1\fill\w_147,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\services_page.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/e55ebc_5a97daf674714bb8aaba6f651f1f9127f000.jpg/v1/fill/w_160,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/e55ebc_5a97daf674714bb8aaba6f651f1f9127f000.jpg
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\e55ebc_5a97daf674714bb8aaba6f651f1f9127f000.jpg\v1\fill\w_160,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto\e55ebc_5a97daf674714bb8aaba6f651f1f9127f000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/e55ebc_5cf2405bfc634b09aed27aa97931c225~mv2.png/v1/fill/w_85,h_85,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/Screenshot 2021-11-21 at 20_31_47.png
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\e55ebc_5cf2405bfc634b09aed27aa97931c225~mv2.png\v1\fill\w_85,h_85,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto\Screenshot 2021-11-21 at 20_31_47.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/e55ebc_6a81f42a8de646dc80b3ac76fa485805~mv2.png/v1/fill/w_87,h_89,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/Screenshot 2021-11-21 at 20_31_31.png
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\e55ebc_6a81f42a8de646dc80b3ac76fa485805~mv2.png\v1\fill\w_87,h_89,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto\Screenshot 2021-11-21 at 20_31_31.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/e55ebc_88327a9765dc476e8f7e498e6209b18af000.jpg/v1/fill/w_160,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/e55ebc_88327a9765dc476e8f7e498e6209b18af000.jpg
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\e55ebc_88327a9765dc476e8f7e498e6209b18af000.jpg\v1\fill\w_160,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto\e55ebc_88327a9765dc476e8f7e498e6209b18af000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/e55ebc_91144d5d69094a72ba77744cbe37d612f000.jpg/v1/fill/w_160,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/e55ebc_91144d5d69094a72ba77744cbe37d612f000.jpg
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\e55ebc_91144d5d69094a72ba77744cbe37d612f000.jpg\v1\fill\w_160,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto\e55ebc_91144d5d69094a72ba77744cbe37d612f000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/e55ebc_af63de7fce734ff289ce4509a263296f~mv2.png/v1/fill/w_49,h_8,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/logoVeleta_white-06.png
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\e55ebc_af63de7fce734ff289ce4509a263296f~mv2.png\v1\fill\w_49,h_8,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto\logoVeleta_white-06.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/e55ebc_b3ca3c8487554693a245175f6a6ab2c1~mv2.png/v1/fill/w_73,h_73,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/Screenshot 2021-11-21 at 20_31_56.png
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\e55ebc_b3ca3c8487554693a245175f6a6ab2c1~mv2.png\v1\fill\w_73,h_73,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto\Screenshot 2021-11-21 at 20_31_56.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/e55ebc_ba3234d62bff4135af52c53cfc406b6f~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/Solution_page.jpg
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\e55ebc_ba3234d62bff4135af52c53cfc406b6f~mv2.jpg\v1\fill\w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto\Solution_page.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/e55ebc_d7145d43ce0e4e17b10fb78efb28cf74f000.jpg/v1/fill/w_160,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/e55ebc_d7145d43ce0e4e17b10fb78efb28cf74f000.jpg
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\e55ebc_d7145d43ce0e4e17b10fb78efb28cf74f000.jpg\v1\fill\w_160,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto\e55ebc_d7145d43ce0e4e17b10fb78efb28cf74f000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/e55ebc_db89410bad98487f8311b75c75274ae6~mv2.png/v1/fill/w_87,h_88,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/Screenshot 2021-11-21 at 20_31_38.png
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\e55ebc_db89410bad98487f8311b75c75274ae6~mv2.png\v1\fill\w_87,h_88,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto\Screenshot 2021-11-21 at 20_31_38.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/e55ebc_dd35831bfed44f979d7782ed4ccf5a2e~mv2.png/v1/fill/w_69,h_86,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/Screenshot 2021-11-21 at 20_32_05.png
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\e55ebc_dd35831bfed44f979d7782ed4ccf5a2e~mv2.png\v1\fill\w_69,h_86,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto\Screenshot 2021-11-21 at 20_32_05.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/e55ebc_e763fcc5bab842c1b82424f38bf1751f~mv2.png/v1/fill/w_70,h_69,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/Screenshot 2021-11-21 at 20_32_12.png
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\e55ebc_e763fcc5bab842c1b82424f38bf1751f~mv2.png\v1\fill\w_70,h_69,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto\Screenshot 2021-11-21 at 20_32_12.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/e55ebc_f9af840fe50e48848082dc9ac13228d5f000.jpg/v1/fill/w_160,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/e55ebc_f9af840fe50e48848082dc9ac13228d5f000.jpg
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\media\e55ebc_f9af840fe50e48848082dc9ac13228d5f000.jpg\v1\fill\w_160,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto\e55ebc_f9af840fe50e48848082dc9ac13228d5f000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/ufonts/044ec0_53734b5733044de3bcadaddfd88d669a/ttf/file.ttf
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\ufonts\044ec0_53734b5733044de3bcadaddfd88d669a\ttf\file.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.wixstatic.com/ufonts/044ec0_53734b5733044de3bcadaddfd88d669a/woff/file.woff
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\ufonts\044ec0_53734b5733044de3bcadaddfd88d669a\woff\file.woff
+Content Type: font/woff
+
+Uri: https://static.wixstatic.com/ufonts/044ec0_53734b5733044de3bcadaddfd88d669a/woff2/file.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\ufonts\044ec0_53734b5733044de3bcadaddfd88d669a\woff2\file.woff2
+Content Type: font/woff2
+
+Uri: https://static.wixstatic.com/ufonts/044ec0_8a940bae2f2740e789023089a84fc84d/ttf/file.ttf
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\ufonts\044ec0_8a940bae2f2740e789023089a84fc84d\ttf\file.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.wixstatic.com/ufonts/044ec0_8a940bae2f2740e789023089a84fc84d/woff/file.woff
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\ufonts\044ec0_8a940bae2f2740e789023089a84fc84d\woff\file.woff
+Content Type: font/woff
+
+Uri: https://static.wixstatic.com/ufonts/044ec0_8a940bae2f2740e789023089a84fc84d/woff2/file.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\ufonts\044ec0_8a940bae2f2740e789023089a84fc84d\woff2\file.woff2
+Content Type: font/woff2
+
+Uri: https://static.wixstatic.com/ufonts/68c3a3_123f54430fd34324b6e887b66d5aec84/ttf/file.ttf
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\ufonts\68c3a3_123f54430fd34324b6e887b66d5aec84\ttf\file.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.wixstatic.com/ufonts/68c3a3_123f54430fd34324b6e887b66d5aec84/woff/file.woff
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\ufonts\68c3a3_123f54430fd34324b6e887b66d5aec84\woff\file.woff
+Content Type: font/woff
+
+Uri: https://static.wixstatic.com/ufonts/68c3a3_123f54430fd34324b6e887b66d5aec84/woff2/file.woff2
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\ufonts\68c3a3_123f54430fd34324b6e887b66d5aec84\woff2\file.woff2
+Content Type: font/woff2
+
+Uri: https://www.aiveleta.com/
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\index.htm
+Content Type: text/html
+
+Uri: https://www.aiveleta.com/about
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\about.html
+Content Type: text/html
+
+Uri: https://www.aiveleta.com/contact
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\contact.html
+Content Type: text/html
+
+Uri: https://www.aiveleta.com/results
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\results.html
+Content Type: text/html
+
+Uri: https://www.aiveleta.com/services
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\services.html
+Content Type: text/html
+
+Uri: https://www.aiveleta.com/solutions
+File Name: C:\Downloaded Web Sites\www.aiveleta.com\solutions.html
+Content Type: text/html
+
